@@ -1,0 +1,3 @@
+﻿  CPP_DS_Stack_Operations.cpp
+E:\GitHub\CPP_Data_Structures_Programs\CPP_DS_Stack_Operations\CPP_DS_Stack_Operations\CPP_DS_Stack_Operations.cpp(64,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  CPP_DS_Stack_Operations.vcxproj -> E:\GitHub\CPP_Data_Structures_Programs\CPP_DS_Stack_Operations\x64\Debug\CPP_DS_Stack_Operations.exe
